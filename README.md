@@ -1,6 +1,6 @@
 ## Hi, I'm Lervin 👋
 
-**Junior Data Analyst in The Hague, Netherlands.** For 10 years I helped customers at Booking.com and Sendcloud. Now I use data to help teams make better decisions.
+**Junior Data Analyst in The Hague, Netherlands.** For 10 years I helped customers at Booking.com. Now I use data to help teams make better decisions.
 
 🌐 **Portfolio:** [lervindelarosa-gif.github.io](https://lervindelarosa-gif.github.io) · 💼 [LinkedIn](https://www.linkedin.com/in/lervindelarosa) · ✉️ lervin.de.la.rosa@hotmail.com
 
